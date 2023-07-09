@@ -1,0 +1,1 @@
+<img src="{{asset('images/moj_logo.png')}}" alt="logo" width="200px" height="200" class="mt-6" />
